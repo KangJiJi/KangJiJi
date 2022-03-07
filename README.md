@@ -2,8 +2,8 @@
 
 ## 안녕하세요! <span><img src="https://user-images.githubusercontent.com/22635168/131712210-5d277eb7-418b-4d20-88b6-54606da7cbca.gif" height="33"><span>
   
-프론트엔드 개발자를 꿈꾸는 [강지훈](http://www.kangji.info)입니다.<br/>
+Software 개발자 [강지훈](http://www.kangji.info)입니다.<br/>
 
-:wrench: Skills: Javascript, React<br/>
-:books: Interest: OOP, Design-Pattern<br/>
+:wrench: Skills: Javascript, Java<br/>
+:books: Interest: OOP, Design-Pattern, Data-engineering, FE<br/>
 :email: Contact: kjhmd9726@gmail.com<br/>
