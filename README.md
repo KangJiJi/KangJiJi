@@ -4,6 +4,6 @@
   
 Software 개발자 [강지훈](http://www.kangji.info)입니다.<br/>
 
-:wrench: Skills: Javascript, Java<br/>
-:books: Interest: OOP, Design-Pattern, Data-engineering, FE<br/>
+:wrench: Skills: Go, Javascript<br/>
+:books: Interest: Clean-Code, TDD, Data-engineering, FE<br/>
 :email: Contact: kjhmd9726@gmail.com<br/>
